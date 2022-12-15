@@ -1,16 +1,15 @@
-### Hi there 👋
+![WebVPF's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebVPF&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
-<!--
-**WebVPF/WebVPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm on CodeWars
 
-Here are some ideas to get you started:
+[![WebVPF codewars](https://www.codewars.com/users/WebVPF/badges/large)](https://www.codewars.com/users/WebVPF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/vscode.svg" alt="Visual Studio Code" width="40px" height="40px">
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/html-5.svg" alt="HTML5" width="40px" height="40px">
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/css-3.svg" alt="CSS3" width="40px" height="40px">
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/javascript.svg" alt="JavaScript" width="40px" height="40px">
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/php.svg" alt="PHP" width="40px" height="40px">
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/mysql.svg" alt="MySQL" width="40px" height="40px">
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/git.svg" alt="Git" width="40px" height="40px">
