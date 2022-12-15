@@ -6,10 +6,4 @@
 
 ## Skills
 
-<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/vscode.svg" alt="Visual Studio Code" width="40px" height="40px">
-<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/html-5.svg" alt="HTML5" width="40px" height="40px">
-<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/css-3.svg" alt="CSS3" width="40px" height="40px">
-<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/javascript.svg" alt="JavaScript" width="40px" height="40px">
-<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/php.svg" alt="PHP" width="40px" height="40px">
-<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/mysql.svg" alt="MySQL" width="40px" height="40px">
-<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/git.svg" alt="Git" width="40px" height="40px">
+<img src="https://github.com/WebVPF/WebVPF/raw/main/icons/vscode.svg" alt="Visual Studio Code" width="40px" height="40px"><img src="https://github.com/WebVPF/WebVPF/raw/main/icons/html-5.svg" alt="HTML5" width="40px" height="40px"><img src="https://github.com/WebVPF/WebVPF/raw/main/icons/css-3.svg" alt="CSS3" width="40px" height="40px"><img src="https://github.com/WebVPF/WebVPF/raw/main/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"><img src="https://github.com/WebVPF/WebVPF/raw/main/icons/php.svg" alt="PHP" width="40px" height="40px"><img src="https://github.com/WebVPF/WebVPF/raw/main/icons/mysql.svg" alt="MySQL" width="40px" height="40px"><img src="https://github.com/WebVPF/WebVPF/raw/main/icons/git.svg" alt="Git" width="40px" height="40px">
