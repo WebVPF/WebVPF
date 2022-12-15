@@ -1,4 +1,4 @@
-![WebVPF's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebVPF&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+![WebVPF's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebVPF&show_icons=true&theme=transparent&hide_border=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebVPF&layout=compact&theme=transparent&hide_border=true)
 
 ## I'm on CodeWars
 
