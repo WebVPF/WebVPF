@@ -1,6 +1,6 @@
 # My Winter CMS
 
-My plugins and extensions for Winter CMS
+❄ My plugins and extensions for Winter CMS ❄
 
 ## Plugins
 
@@ -24,3 +24,7 @@ My plugins and extensions for Winter CMS
 ## Browser extension
 
 [![reload](https://github-readme-stats.vercel.app/api/pin/?username=WebVPF&repo=octoreload)](https://github.com/WebVPF/octoreload)
+
+❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
+❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
+❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
