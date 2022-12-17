@@ -10,10 +10,10 @@
 
 ## My developments
 
-❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
+❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
 
-My plugins and extensions for Winter CMS: [https://github.com/WebVPF/wintercms](https://github.com/WebVPF/WebVPF/blob/main/wintercms.md)
+❄❄❄ My plugins and extensions for Winter CMS: [https://github.com/WebVPF/wintercms](https://github.com/WebVPF/WebVPF/blob/main/wintercms.md) ❄❄❄
 
-❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
+❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
 
 My browser extensions: [https://github.com/WebVPF/browsers](https://github.com/WebVPF/WebVPF/blob/main/browsers.md)
