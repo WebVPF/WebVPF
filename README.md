@@ -1,7 +1,3 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WebVPF&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ![WebVPF's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebVPF&show_icons=true&theme=transparent&hide_border=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebVPF&layout=compact&hide_title=true&theme=transparent&hide_border=true)
 
 ## My developments
